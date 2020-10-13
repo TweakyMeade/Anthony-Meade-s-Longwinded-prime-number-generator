@@ -1,4 +1,4 @@
-priCand = 100000
+priCand = 1
 primeFlag = True
 while primeFlag:
     counter = 0
