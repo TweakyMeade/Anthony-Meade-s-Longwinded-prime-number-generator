@@ -1,4 +1,4 @@
-priCand = 1
+priCand = 100000
 primeFlag = True
 while primeFlag:
     counter = 0
@@ -14,6 +14,6 @@ while primeFlag:
         if dvd == 0:
             primeFlagTwo = False
     if counter <= 2:
-        print(priCand)
+        print(priCand, "\n")
     if priCand == 0:
         primeFlag = False
