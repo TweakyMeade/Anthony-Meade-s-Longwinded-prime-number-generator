@@ -1,5 +1,5 @@
 priCand = 1
-primeFlag = True
+primeFlag = True 
 while primeFlag:
     counter = 0
     primeFlagTwo = True
